@@ -1,5 +1,5 @@
 # Tweet-Sentiment-Extraction
-# CODE will be added by 21st May
+# CODE will be added by 23rd May
 
 "My ridiculous dog is amazing." [sentiment: positive]
 
